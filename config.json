@@ -1,0 +1,52 @@
+{
+  "status": "all",
+  "maxQueriesPerRun": 12,
+  "maxScrollSeconds": 60,
+  "maxCards": 300,
+  "maxEnrichPerRun": 60,
+  "keepDays": 90,
+  "keywords": {
+    "DZ": [
+      "الدفع عند الاستلام",
+      "توصيل لجميع الولايات",
+      "اطلب الان الدفع عند الاستلام",
+      "paiement à la livraison",
+      "livraison 58 wilayas",
+      "مقلاة هوائية الدفع عند الاستلام",
+      "أدوات المطبخ الدفع عند الاستلام",
+      "مكياج الدفع عند الاستلام",
+      "عناية بالبشرة الدفع عند الاستلام",
+      "إكسسوارات السيارة الدفع عند الاستلام",
+      "سماعات الدفع عند الاستلام",
+      "ملابس الدفع عند الاستلام",
+      "ألعاب الأطفال الدفع عند الاستلام",
+      "جهاز مساج الدفع عند الاستلام"
+    ],
+    "SA": [
+      "الدفع عند الاستلام",
+      "توصيل لجميع مدن المملكة",
+      "اطلب الآن الدفع عند الاستلام"
+    ]
+  },
+  "criteria": {
+    "minAdvertisers": 2,
+    "minProven": 2,
+    "provenDays": 14,
+    "maxKillRate": 0.34,
+    "saturationAdvertisers": 8,
+    "saturationEntrants14": 3,
+    "priceMin": 0,
+    "priceMax": 0,
+    "needPrice": false
+  },
+  "niches": {
+    "home_kitchen": "مطبخ طبخ كهربائي كهرومنزلي قدر ضغط ماكينة خلاط مكنسة مروحة مدفأة غلاية مقلاة فرن ثلاجة غسالة أواني صحون طنجرة عجين عصير قهوة سخان محضرة شواية مجفف تقطيع خضار فرامة مبشرة طاسة موقد ميكروويف مكواة cuisine robot friteuse mixeur aspirateur ustensiles cuiseur bouilloire ventilateur chauffage electrique",
+    "beauty": "مكياج عناية بشرة شعر عطر كريم سيروم مرطب تجميل فرشاة تنعيم حلاقة رموش اظافر cosmetique maquillage soin cheveux parfum creme",
+    "auto": "سيارة سيارات دراجة موتو اكسسوارات زيت اطارات مقود مصابيح voiture auto moto accessoires",
+    "electronics": "هاتف سماعات شاحن كاميرا ساعة ذكية لابتوب بلوتوث لاسلكي تلفاز بطارية telephone casque chargeur camera montre smartphone",
+    "fashion": "ملابس حذاء احذية حقيبة فستان قميص جاكيت سروال عباءة جوارب vetement chaussures sac robe veste",
+    "kids": "اطفال طفل العاب رضع حفاض مدرسة لعبة bebe enfant jouet",
+    "health_fitness": "صحة رياضة تخسيس ظهر مساج عضلات تمارين مكمل ألم massage sante sport minceur",
+    "tools_garden": "عدة ادوات حديقة مثقاب مفك ورشة لحام صنبور outils jardin perceuse"
+  }
+}
